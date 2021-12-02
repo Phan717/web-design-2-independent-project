@@ -1,0 +1,43 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Heebo', sans-serif;
+  line-height: 1.5;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+section ul {
+  list-style-type: none;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  margin-right: .5rem;
+  margin-top: .75rem;
+  font-size: 1rem;
+}
+
+section h1 {
+  text-align: center;
+  color: #fff;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+img {
+  display: block;
+  width: auto;
+}
+
+main h2 {
+  list-style-type: none;
+  font-size: 1.5rem;
+  text-align: center;
+}
