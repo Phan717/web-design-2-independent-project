@@ -24,7 +24,7 @@ section ul {
   list-style-type: none;
   display: flex;
   align-items: center;
-  justify-content: none;
+  justify-content: flex-end;
   margin: 0;
   padding-left: 0;
 }
@@ -32,4 +32,20 @@ section ul {
 main ul {
   display: grid;
   padding: 0;
+}
+
+main li {
+  padding-top: .5rem;
+  margin-bottom: 1.2rem;
+}
+
+.logo {
+  width: 40%;
+}
+
+@media only screen and (min-width: 25em) {
+
+  .logo {
+    width: 20%;
+  }
 }
