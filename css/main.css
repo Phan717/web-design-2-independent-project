@@ -17,14 +17,14 @@ body {
 
 img {
   display: block;
-  width: 50%;
+  width: 20%;
 }
 
 section ul {
   list-style-type: none;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: none;
   margin: 0;
   padding-left: 0;
 }
@@ -32,8 +32,4 @@ section ul {
 main ul {
   display: grid;
   padding: 0;
-}
-main li{
-  padding-top: .5rem;
-  margin-bottom: 1.2rem;
 }
