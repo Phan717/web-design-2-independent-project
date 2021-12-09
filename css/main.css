@@ -29,7 +29,6 @@ section h1 {
   margin-bottom: 0rem;
   padding-left: .5rem;
   font-weight: bold;
-  background-color: red;
 }
 
 
@@ -41,7 +40,6 @@ section h2 {
   font-weight: bold;
   padding-top: 0rem;
   padding-left: .5rem;
-  background-color: yellow;
 }
 
 section nav ul {
@@ -53,7 +51,6 @@ section nav ul {
   margin-right: 0rem;
   margin-top: 0;
   font-size: 1rem;
-  background-color: green;
 }
 
 
