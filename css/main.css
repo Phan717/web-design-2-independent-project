@@ -45,8 +45,9 @@ section h2 {
 section nav ul {
   list-style-type: none;
   display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
+  align-items: flex-start;
+  align-content: center;
+  gap: 1em;
   padding: 0 .1rem;
   margin-right: 0;
   margin-top: 0;
@@ -59,6 +60,15 @@ main ul {
   grid-gap: .2rem;
   padding: 0;
   list-style-type: none;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-areas:
+  "banner banner banner banner banner"
+  "col1 col2 col3 col4 col5";
+  gap: 0.25em;
 }
 
 @media only screen and (min-width: 25em) {
