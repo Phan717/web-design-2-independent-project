@@ -1,0 +1,27 @@
+html {
+  box-sizing: border-box;
+  font-family: Heebo, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff33b;
+}
+
+nav ul {
+  display: f
+  justify-content: space-around;
+  background-color: inherit;
+  list-style-type: none;
+  padding: 0.5rem;
+}
