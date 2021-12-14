@@ -30,6 +30,11 @@ h2 {
   margin-top: 0;
 }
 
+hgroup {
+  align-items: flex;
+  margin-left: 1.5rem;
+}
+
 main h2 {
   font-family: Heebo, sans-serif;
   color: black;
