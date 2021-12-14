@@ -25,3 +25,12 @@ nav ul {
   list-style-type: none;
   padding: 0.5rem;
 }
+
+h2 {
+  font-family: Heebo, sans-serif;
+  font-weight: 500;
+  color: #fff33b;
+  font-size: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
