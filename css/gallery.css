@@ -45,3 +45,9 @@ main h3 {
   font-size: 2rem;
   align-items: center;
 }
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem 2rem 3rem;
+}
