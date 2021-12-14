@@ -34,7 +34,7 @@ align-items: flex-end;
 align-content: center;
 gap: 1em;
 padding: 0 .1rem;
-margin-right: 0;
+margin-left: 2rem;
 margin-top: 0;
 font-size: 1rem;
 }
@@ -44,6 +44,14 @@ main h3 {
   color: black;
   font-size: 2rem;
   align-items: center;
+  align-items: flex-end;
+  padding: 0 .1rem;
+  margin-left: 2rem
+
+}
+
+main ul li {
+  list-style-type: none;
 }
 
 footer {
