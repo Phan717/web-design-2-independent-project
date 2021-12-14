@@ -38,3 +38,10 @@ margin-right: 0;
 margin-top: 0;
 font-size: 1rem;
 }
+
+main h3 {
+  font-weight: 500;
+  color: black;
+  font-size: 2rem;
+  align-items: center;
+}
