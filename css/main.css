@@ -40,10 +40,9 @@ h2 {
   font-family: Heebo, sans-serif;
   font-weight: 400;
   color: #f7941d;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   margin-bottom: 2rem;
   margin-top: 0;
-  background-color: blue;
 }
 
 .mainphoto img {
@@ -96,14 +95,6 @@ main {
         "col1 col2 col3 col4";
   justify-content: space-around;
   grid-column-gap: 1rem;
-  margin-left: 2rem;
-}
-
-main h2 {
-  font-family: Heebo, sans-serif;
-  font-weight: 100;
-  color: #894a21;
-  font-size: 1rem;
   margin-left: 2rem;
 }
 
