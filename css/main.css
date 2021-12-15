@@ -17,8 +17,13 @@ body {
 
 nav a {
   text-decoration: none;
-  color: black;
-  background-color: orange;
+  color: #fff;
+}
+
+nav a {
+  text-decoration: none;
+  color: #231f20;
+  background-color: #f7941d;
   padding: 1rem;
   margin-left: 2rem;
 }
@@ -31,7 +36,7 @@ hgroup h1 {
 h2 {
   font-family: Heebo, sans-serif;
   font-weight: 700;
-  color: orange;
+  color: #f7941d;
   font-size: 2.4rem;
   margin-left: 2rem;
   margin-bottom: 3rem;
@@ -47,7 +52,7 @@ h2 {
 
 .mainphoto h1 {
   font-size: 2rem;
-  color: orange;
+  color: #f7941d;
   align-content: center;
 }
 
@@ -71,7 +76,7 @@ section h1 {
 section h2 {
   font-family: Heebo, san-serif;
   font-weight: 700;
-  color: orange;
+  color: #f7941d;
   text-align: left;
   font-size: 2.4rem;
   margin-bottom: 2rem;
@@ -112,7 +117,7 @@ main {
 main h2 {
   font-family: Heebo, sans-serif;
   font-weight: 100;
-  color: black;
+  color: #231f21;
   font-size: 1rem;
   margin-left: 2rem;
 }
