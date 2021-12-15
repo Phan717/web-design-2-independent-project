@@ -20,7 +20,6 @@ nav a {
   color: black;
   background-color: orange;
   padding: 0.5rem;
-  margin-left: 2rem;
 }
 
 h1 {
@@ -31,7 +30,7 @@ h2 {
   font-family: Heebo, sans-serif;
   font-weight: 700;
   color: orange;
-  font-size: 2.4rem;
+  font-size: 2.5rem;
   margin-left: 2rem;
   margin-bottom: 2rem;
   margin-top: 0;
@@ -40,6 +39,7 @@ h2 {
 .mainphoto img {
   display: block;
   width: 70%;
+  margin-left: 2rem;
 }
 
 section img {
@@ -65,7 +65,7 @@ section h2 {
   margin-left: 2rem;
 }
 
-section nav ul {
+nav ul {
   list-style-type: none;
   display: flex;
   align-items: flex-start;
