@@ -38,7 +38,7 @@ nav ul {
 
 h2 {
   font-family: Heebo, sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   color: #f7941d;
   font-size: 2.4rem;
   margin-left: 2rem;
@@ -72,13 +72,13 @@ section img {
 section h1 {
   margin-bottom: 0;
   padding-left: .5rem;
-  font-weight: 700;
+  font-weight: 400;
   margin-left: 2rem;
 }
 
 section h2 {
   font-family: Heebo, san-serif;
-  font-weight: 700;
+  font-weight: 400;
   color: #f7941d;
   text-align: left;
   font-size: 2.4rem;
