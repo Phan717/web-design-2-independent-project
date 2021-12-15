@@ -105,7 +105,7 @@ footer {
   margin-left: 2rem;
 }
 
-@media only screen and (max-width: 40em) {
+@media only screen and (min-width: 20em) {
 
   .mainphoto p {
     text-align: left;
@@ -115,13 +115,4 @@ footer {
     display: block;
   }
 
-}
-
-@media only screen and (max-width: 80em) {
-  main section ul {
-    display: grid;
-    grid-template-columns: repeat (auto-fit, minmax (min(20rem, 100%), 1fr))
-    gap: 1rem;
-    grid-row-gap: 1rem;
-  }
 }
