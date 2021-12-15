@@ -46,7 +46,7 @@ h1 {
 
 section h2 {
   font-family: Heebo, san-serif;
-  font-weight: 400;
+  font-weight: bold;
   color: #f7941d;
   text-align: left;
   font-size: 2.4rem;
@@ -58,4 +58,10 @@ footer {
   display: flex;
   justify-content: space-around;
   margin-left: 2rem;
+}
+
+@media only screen and (max-width:40em) {
+  footer {
+    display: block;
+  }
 }
