@@ -82,9 +82,14 @@ footer {
   margin-left: 0rem;
 }
 
-@media only screen and (max-width:40em) {
+@media only screen and (min-width: 20em) {
+
+  .mainphoto p {
+    text-align: left;
+  }
 
   footer {
     display: block;
   }
+
 }
