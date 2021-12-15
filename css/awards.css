@@ -34,23 +34,6 @@ h2 {
   margin-top: 0;
 }
 
-.mainphoto img {
-  display: block;
-  width: 70%;
-  margin-left: 2rem;
-  margin-top: 3rem;
-}
-
-.mainphoto h1 {
-  font-size: 2rem;
-  color: #7941d;
-  align-content: center;
-}
-
-.mainphoto p {
-  margin-left: 2rem;
-}
-
 section img {
   display: flex;
   width: 25%;
