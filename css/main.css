@@ -20,18 +20,17 @@ nav a {
   color: #fff;
 }
 
-nav a {
+header img {
+  margin-left: 2rem;
+}
+
+nav ul {
   text-decoration: none;
+  display: flex;
   color: #231f20;
   background-color: #f7941d;
   padding: 1rem;
   margin-left: 2rem;
-}
-
-hgroup h1 {
-  margin-left: 2rem;
-  width: 25%;
-  font-weight: 700;
 }
 
 h2 {
