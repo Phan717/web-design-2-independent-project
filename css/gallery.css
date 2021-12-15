@@ -77,7 +77,7 @@ ul li h4 {
 footer {
   display: flex;
   justify-content: space-around;
-  margin-left: 2rem;
+  margin-left: 0rem;
 }
 
 .copyright {
