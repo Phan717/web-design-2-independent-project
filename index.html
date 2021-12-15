@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-ca">
 <head>
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
   <meta charset="utf-8">
   <title>A.P. Academy of Arts</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -14,6 +10,10 @@
   <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
+  <ul class="skip-links">
+    <li><a href="#nav"></a>Skip to navigation</li>
+    <li><a href="#main"></a>Skip to the main content</li>
+  </ul>
   <header role="banner">
     <img src="images/logomedium.svg" alt="logo">
     <nav role="navigation">
@@ -31,7 +31,7 @@
       <p>Learn and perfect your skills with us, whether you are a professional or just an amateur looking to impress family and friends!</p>
     </section>
   </header>
-  <main role="main">
+  <main role="main" id="main" tabindex="0">
     <ul>
       <li>
         <img src="images/gumnew.jpg" alt="">
