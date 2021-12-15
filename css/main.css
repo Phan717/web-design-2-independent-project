@@ -19,12 +19,13 @@ nav a {
   text-decoration: none;
   color: black;
   background-color: orange;
-  padding: 0.5rem;
+  padding: 1rem;
   margin-left: 2rem;
 }
 
-h1 {
+hgroup h1 {
   margin-left: 2rem;
+  width: 25%;
 }
 
 h2 {
@@ -46,7 +47,8 @@ h2 {
 
 .mainphoto h1 {
   font-size: 2rem;
-  margin-left: 2rem;
+  color: orange;
+  align-content: center;
 }
 
 .mainphoto p {
@@ -55,7 +57,7 @@ h2 {
 
 section img {
   display: flex;
-  width: 30%;
+  width: 25%;
   margin-left: 2rem;
 }
 
@@ -92,7 +94,7 @@ nav ul {
 main ul {
   display: inline-flex;
   grid-template-columns: auto;
-  grid-gap: .2rem;
+  grid-gap: 1rem;
   padding: 0;
   list-style-type: none;
 }
@@ -104,14 +106,22 @@ main {
   "banner banner banner banner"
   "col1 col2 col3 col4";
   justify-content: space-around;
+  grid-column-gap: 1rem;
   margin-left: 2rem;
 }
 
 main h2{
   font-family: Heebo, sans-serif;
-  font-weight: normal;
+  font-weight: 100;
   color: black;
   font-size: 1rem;
+  margin-left: 2rem;
+}
+
+main img {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
 }
 
 footer {
