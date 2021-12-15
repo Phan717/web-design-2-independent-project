@@ -19,10 +19,19 @@ nav a {
 }
 
 nav ul {
-  text-decoration: none;
   color: #231f20;
   background-color: #f7941d;
   padding: 0.5rem;
+  list-style-type: none;
+  display: flex;
+  align-items: flex-end;
+  align-content: center;
+  gap: 1em;
+  padding: 0 .1rem;
+  margin-left: 2rem;
+  font-size: 1rem;
+  }
+
 }
 
 header img {
@@ -31,7 +40,7 @@ header img {
 
 h2 {
   font-family: Heebo, sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   color: #f7941d;
   font-size: 2.4rem;
   margin-left: 2rem;
@@ -47,20 +56,8 @@ main h2 {
   margin-top: 3rem;
 }
 
-nav ul {
-list-style-type: none;
-display: flex;
-align-items: flex-end;
-align-content: center;
-gap: 1em;
-padding: 0 .1rem;
-margin-left: 2rem;
-margin-top: 0;
-font-size: 1rem;
-}
-
 main h3 {
-  font-weight: 500;
+  font-weight: 300;
   color: #231f20;
   font-size: 1.5rem;
   align-items: center;
