@@ -17,9 +17,10 @@ body {
 
 nav a {
   text-decoration: none;
-  color: black;
-  background-color: orange;
-  padding: 1rem;
+  color: #fff;
+}
+
+nav a {
   margin-left: 2rem;
 }
 
@@ -31,7 +32,7 @@ hgroup h1 {
 h2 {
   font-family: Heebo, sans-serif;
   font-weight: 700;
-  color: orange;
+  color: #f7941d;
   font-size: 2.4rem;
   margin-left: 2rem;
   margin-bottom: 3rem;
@@ -47,7 +48,7 @@ h2 {
 
 .mainphoto h1 {
   font-size: 2rem;
-  color: orange;
+  color: #7941d;
   align-content: center;
 }
 
@@ -101,7 +102,7 @@ main ul {
 main h2 {
   font-family: Heebo, sans-serif;
   font-weight: 100;
-  color: black;
+  color: #231f20;
   font-size: 1rem;
   margin-left: 2rem;
 }
