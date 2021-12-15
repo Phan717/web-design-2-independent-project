@@ -116,3 +116,12 @@ footer {
   }
 
 }
+
+@media only screen and (max-width: 80em) {
+  main section ul {
+    display: grid;
+    grid-template-columns: repeat (auto-fit, minmax (min(20rem, 100%), 1fr))
+    gap: 1rem;
+    grid-row-gap: 1rem;
+  }
+}
