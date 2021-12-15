@@ -18,9 +18,9 @@ nav a {
   color: #fff;
 }
 
-nav a {
+nav ul {
   text-decoration: none;
-  color: black;
+  color: #231f20;
   background-color: #f7941d;
   padding: 0.5rem;
 }
@@ -41,7 +41,7 @@ h2 {
 
 main h2 {
   font-family: Heebo, sans-serif;
-  color: black;
+  color: #231f20;
   font-weight: 400;
   margin-left: 2rem;
   margin-top: 3rem;
