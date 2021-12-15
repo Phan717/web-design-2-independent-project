@@ -83,10 +83,8 @@ footer {
 }
 
 @media only screen and (max-width:40em) {
-  .mainphoto p {
-    text-align: left;
-  }
 
   footer {
     display: block;
   }
+}
