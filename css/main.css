@@ -43,6 +43,7 @@ h2 {
   font-size: 1.2rem;
   margin-bottom: 2rem;
   margin-top: 0;
+  justify-content: center;
 }
 
 .mainphoto img {
@@ -56,12 +57,14 @@ h2 {
   font-size: 2rem;
   color: #894a21;
   align-content: left;
-  margin-left: 2rem;
+  margin-left: 1.5rem;
   font-weight: 600;
 }
 
 .mainphoto p {
   margin-left: 2rem;
+  margin-top: 0.2rem;
+  background-color: blue;
 }
 
 section img {
@@ -96,12 +99,6 @@ main {
   justify-content: space-around;
   grid-column-gap: 1rem;
   margin-left: 2rem;
-}
-
-main img {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
 }
 
 footer {
