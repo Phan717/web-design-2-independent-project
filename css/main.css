@@ -40,10 +40,10 @@ h2 {
   font-family: Heebo, sans-serif;
   font-weight: 400;
   color: #f7941d;
-  font-size: 2.4rem;
-  margin-left: 2rem;
-  margin-bottom: 3rem;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
   margin-top: 0;
+  background-color: blue;
 }
 
 .mainphoto img {
@@ -55,8 +55,10 @@ h2 {
 
 .mainphoto h1 {
   font-size: 2rem;
-  color: #f7941d;
-  align-content: center;
+  color: #894a21;
+  align-content: left;
+  margin-left: 2rem;
+  font-weight: 600;
 }
 
 .mainphoto p {
@@ -72,18 +74,10 @@ section img {
 section h1 {
   margin-bottom: 0;
   padding-left: .5rem;
-  font-weight: 400;
+  font-weight: 500;
   margin-left: 2rem;
-}
-
-section h2 {
-  font-family: Heebo, san-serif;
-  font-weight: 400;
-  color: #f7941d;
-  text-align: left;
-  font-size: 2.4rem;
-  margin-bottom: 2rem;
-  margin-left: 2rem;
+  color: #894a21;
+  font-size: 1.5rem;
 }
 
 main ul {
@@ -108,7 +102,7 @@ main {
 main h2 {
   font-family: Heebo, sans-serif;
   font-weight: 100;
-  color: #231f21;
+  color: #894a21;
   font-size: 1rem;
   margin-left: 2rem;
 }
