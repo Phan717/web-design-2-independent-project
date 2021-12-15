@@ -28,7 +28,7 @@ nav ul {
   list-style-type: none;
   display: flex;
   align-items: flex-start;
-  color: #231f20;
+  color: #000000;
   background-color: #f7941d;
   padding: 1rem;
   margin-left: 2rem;
@@ -39,7 +39,7 @@ nav ul {
 h2 {
   font-family: Heebo, sans-serif;
   font-weight: bolder;
-  color: #f7941d;
+  color: #000000;
   font-size: 1.2rem;
   margin-bottom: 2rem;
   margin-top: 0;
@@ -55,7 +55,7 @@ h2 {
 
 .mainphoto h1 {
   font-size: 2rem;
-  color: #894a21;
+  color: #000000;
   margin-left: 1.5rem;
   font-weight: bold;
 }
@@ -76,7 +76,7 @@ section h1 {
   padding-left: .5rem;
   font-weight: bold;
   margin-left: 2rem;
-  color: #894a21;
+  color: #000000;
   font-size: 1.5rem;
 }
 
