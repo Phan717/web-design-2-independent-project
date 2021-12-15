@@ -39,6 +39,7 @@ main h2 {
   color: black;
   font-weight: 400;
   margin-left: 2rem;
+  margin-top: 3rem;
 }
 
 nav ul {
@@ -60,8 +61,8 @@ main h3 {
   align-items: center;
   align-items: flex-end;
   padding: 0 .1rem;
-  margin-left: 2rem
-
+  margin-left: 2rem;
+  margin-top: 1rem;
 }
 
 main ul li {
@@ -76,5 +77,9 @@ ul li h4 {
 footer {
   display: flex;
   justify-content: space-around;
-  padding: 1rem 2rem 3rem;
+  margin-left: 2rem;
+}
+
+.copyright {
+  margin-left: 2rem;
 }
