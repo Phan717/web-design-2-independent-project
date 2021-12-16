@@ -114,8 +114,8 @@ main {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-areas:
-"banner banner banner banner"
-"col1 col2 col3 col4";
+        "banner banner banner banner"
+        "col1 col2 col3 col4";
   justify-content: space-around;
   grid-column-gap: 1rem;
   margin-left: 2rem;
