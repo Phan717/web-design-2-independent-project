@@ -130,16 +130,11 @@ footer {
 .top {
   text-decoration: none;
   color: #000;
-  background-color: #f7941d;
-  border-color: #fff;
+  border-color: #f7941d;
   border-radius: .5rem;
   font-weight: bold;
   padding: .5rem;
   display: block;
-}
-
-.top {
-flex-grow: 1.5;
 }
 
 @media only screen and (min-width: 20em) {
