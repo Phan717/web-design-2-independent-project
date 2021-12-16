@@ -138,6 +138,10 @@ footer {
   margin-left: 2rem;
 }
 
+.top {
+  flex-grow: 1;
+}
+
 @media only screen and (min-width: 20em) {
 
   .mainphoto p {
