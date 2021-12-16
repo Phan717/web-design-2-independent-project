@@ -42,6 +42,10 @@ header img {
   margin-left: 2rem;
 }
 
+nav {
+  background-color: #f7941d;
+}
+
 nav ul {
   list-style-type: none;
   display: flex;
